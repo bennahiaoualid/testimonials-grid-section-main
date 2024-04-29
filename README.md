@@ -108,3 +108,60 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+# Testimonials Grid Section
+
+This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [The Challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The Challenge
+
+The challenge was to build a responsive testimonials grid section and get it looking as close to the design as possible.
+
+Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
+
+### Screenshot
+
+![Screenshot](./design/desktop-preview.jpg)
+
+### Links
+
+- Solution URL: [https://github.com/bennahiaoualid/testimonials-grid-section-main](https://github.com/bennahiaoualid/testimonials-grid-section-main)
+- Live Site URL: [https://bennahiaoualid.github.io/testimonials-grid-section-main/](https://bennahiaoualid.github.io/testimonials-grid-section-main/)
+
+## My Process
+
+### Built With
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid
+- Mobile-first workflow
+
+### What I Learned
+
+In this project, I learned how to create a responsive grid layout using CSS Grid. I also practiced working with background images, text styling, and implementing accessible color contrast ratios.
+
+### Continued Development
+
+Moving forward, I plan to continue improving my skills in responsive web design and explore more advanced CSS techniques such as CSS animations and transitions. Additionally, I aim to focus on enhancing the accessibility of my projects.
+
+## Author
+
+- Frontend Mentor - [@bennahiaoualid](https://www.frontendmentor.io/profile/bennahiaoualid)
+- GitHub - [@bennahiaoualid](https://github.com/bennahiaoualid)
