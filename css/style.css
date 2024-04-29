@@ -69,7 +69,6 @@ body {
     background-color: var(--primary-color-grayish);
 }
 .container .testimonial:nth-child(4){
-    color: red;
     background-color: var(--primary-color-blackish);
 }
 
