@@ -27,6 +27,9 @@ body {
     font-family: "Barlow Semi Condensed", sans-serif;
     font-size: 13px;
     background-color: var(--natural-color-2);
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
 }
 
 .container {
@@ -34,7 +37,6 @@ body {
     gap: 1.5rem;
     padding-block: 2rem;
     width: min(95%, 70rem);
-    margin-inline: auto;
 }
 
 
@@ -42,30 +44,10 @@ body {
 
 @media (min-width: 768px) {
     .container {
-        /*width: 750px;*/
         grid-template-columns: repeat(4,1fr);
     }
 }
 
-
-/* Medium */
-/*
-@media (min-width: 992px) {
-    .container {
-        width: 970px;
-    }
-}
-
-
-/* Large */
-/*
-@media (min-width: 1200px) {
-    .container {
-        width: 1170px;
-    }
-}
-
-*/
 /* End Global Rules */
 .container .testimonial{
     padding: 1.2rem;
